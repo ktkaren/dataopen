@@ -1,2 +1,2 @@
-# dataopen
-Sample code from dataopen 2018
+# DataOpen
+Sample code from DataOpen Waterloo 2018
